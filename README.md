@@ -3,6 +3,9 @@ Hi, my name is Vladimir Bakhanovich and I am a Java developer!<br><br>Started le
 
 Looking forward to working on new projects and tasks.
 
+Telegram: @vv_bakh                                     
+Email: vvbakh@gmail.com
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
