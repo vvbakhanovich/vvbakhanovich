@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Vladimir Bakhanovich and I am a Java developer!<br><br>Started learning Java in 2022. Since then wrote several projects, including group project (java-filmorate) <br>and pet project (snmp-trap-monitoring). Developed [mobile app backend](https://github.com/yandex-hakaton-kardo/kardo-mobile-app-back) and successfully integrated it with frontend. This project won an award as "Best Backend" and "Best Frontend" amoung other teams. 
+Hi, my name is Vladimir Bakhanovich and I am a Java developer!<br><br>Started learning Java in 2022. Since then wrote several projects, including pet project [snmp-trap-monitoring](https://github.com/vvbakhanovich/snmp-alarm-monitoring) and [event-organizer](https://github.com/orgs/ms-second-team/repositories) using microservices architecture, Spring Cloud and Kafka. Developed [mobile app backend](https://github.com/yandex-hakaton-kardo/kardo-mobile-app-back) and successfully integrated it with frontend. This project won an award as "Best Backend" and "Best Frontend" amoung other teams. 
 
 Looking forward to working on new projects and tasks.
 
